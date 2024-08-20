@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "WebAPI.Controllers.PropertiessController",
+    "Method": "GetPropertyById",
+    "RelativePath": "api/Propertiess/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.PropertiessController",
+    "Method": "AddNewProperty",
+    "RelativePath": "api/Propertiess/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newPropertyRequest",
+        "Type": "Application.Models.NewProperty",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.PropertiessController",
+    "Method": "UpdateProperty",
+    "RelativePath": "api/Propertiess/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateProperty",
+        "Type": "Application.Models.UpdateProperty",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
