@@ -4366,24 +4366,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\VO HIEU TAI\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\votai\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectToKnow\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "E:\\fpt-project\\Fpt-project\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\ProjectToKnow\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\VO HIEU TAI\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjectToKnow\\Infrastructure\\obj\\",
+      "projectPath": "E:\\fpt-project\\Fpt-project\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\votai\\.nuget\\packages\\",
+      "outputPath": "E:\\fpt-project\\Fpt-project\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\VO HIEU TAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\votai\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4398,8 +4393,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ProjectToKnow\\Application\\Application.csproj": {
-              "projectPath": "D:\\ProjectToKnow\\Application\\Application.csproj"
+            "E:\\fpt-project\\Fpt-project\\Application\\Application.csproj": {
+              "projectPath": "E:\\fpt-project\\Fpt-project\\Application\\Application.csproj"
             }
           }
         }
@@ -4454,7 +4449,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -22,10 +22,11 @@ namespace Infrastructure.Reponsitories
             await _context.Properties.AddAsync(property);
             await _context.SaveChangesAsync();
         }
-
-        public Task DeleteAsync(Property property)
+        // first step
+        public async Task DeleteAsync(Property property)
         {
-            throw new NotImplementedException();
+            _context.Properties.Remove(property);
+            await _context.SaveChangesAsync();
         }
 
         public async Task<List<Property>> GetAllAsync()

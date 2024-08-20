@@ -388,24 +388,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\VO HIEU TAI\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\votai\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectToKnow\\Application\\Application.csproj",
+      "projectUniqueName": "E:\\fpt-project\\Fpt-project\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\ProjectToKnow\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\VO HIEU TAI\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjectToKnow\\Application\\obj\\",
+      "projectPath": "E:\\fpt-project\\Fpt-project\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\votai\\.nuget\\packages\\",
+      "outputPath": "E:\\fpt-project\\Fpt-project\\Application\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\VO HIEU TAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\votai\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -420,8 +415,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ProjectToKnow\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\ProjectToKnow\\Domain\\Domain.csproj"
+            "E:\\fpt-project\\Fpt-project\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\fpt-project\\Fpt-project\\Domain\\Domain.csproj"
             }
           }
         }
@@ -478,7 +473,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

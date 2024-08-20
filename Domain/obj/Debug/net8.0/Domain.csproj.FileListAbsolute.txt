@@ -9,3 +9,15 @@ D:\ProjectToKnow\Domain\obj\Debug\net8.0\Domain.dll
 D:\ProjectToKnow\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\ProjectToKnow\Domain\obj\Debug\net8.0\Domain.pdb
 D:\ProjectToKnow\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\fpt-project\Fpt-project\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\fpt-project\Fpt-project\Domain\bin\Debug\net8.0\Domain.dll
+E:\fpt-project\Fpt-project\Domain\bin\Debug\net8.0\Domain.pdb
+E:\fpt-project\Fpt-project\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\fpt-project\Fpt-project\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\fpt-project\Fpt-project\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\fpt-project\Fpt-project\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\fpt-project\Fpt-project\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\fpt-project\Fpt-project\Domain\obj\Debug\net8.0\Domain.dll
+E:\fpt-project\Fpt-project\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\fpt-project\Fpt-project\Domain\obj\Debug\net8.0\Domain.pdb
+E:\fpt-project\Fpt-project\Domain\obj\Debug\net8.0\ref\Domain.dll
