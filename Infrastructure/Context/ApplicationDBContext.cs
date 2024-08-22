@@ -1,15 +1,10 @@
 ﻿using Domain;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Infrastructure.Context
 {
-    public class ApplicationDBContext : DbContext
+    public class ApplicationDBContext : IdentityDbContext<Users>
     {
         public ApplicationDBContext(DbContextOptions<ApplicationDBContext> option): base(option) 
         { 
@@ -17,6 +12,7 @@ namespace Infrastructure.Context
         }
         public DbSet<Domain.Property> Properties => Set<Domain.Property>();
         public DbSet<Image> images => Set<Image>();
+        public DbSet<Users> users => Set<Users>();
     }
 }
 

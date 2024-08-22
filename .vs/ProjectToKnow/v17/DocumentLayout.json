@@ -1,14 +1,138 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\fpt-project\\Fpt-project\\",
+  "WorkspaceRootPath": "D:\\ProjectToKnow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|e:\\fpt-project\\fpt-project\\webapi\\controllers\\propertiesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|d:\\projecttoknow\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\instrumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\instrumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\feature\\properties\\query\\getpropertyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\feature\\properties\\query\\getpropertyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|d:\\projecttoknow\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|d:\\projecttoknow\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|d:\\projecttoknow\\webapi\\controllers\\propertiesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\propertiesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|e:\\fpt-project\\fpt-project\\application\\feature\\command\\createpropertyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\feature\\command\\createpropertyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D2D1BCF-00C1-4979-9ADA-039CE997F3DA}|Infrastructure\\Infrastructure.csproj|d:\\projecttoknow\\infrastructure\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2D1BCF-00C1-4979-9ADA-039CE997F3DA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\pipelinebehaviours\\cachepipelinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\pipelinebehaviours\\cachepipelinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2D1BCF-00C1-4979-9ADA-039CE997F3DA}|Infrastructure\\Infrastructure.csproj|d:\\projecttoknow\\infrastructure\\reponsitories\\imagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2D1BCF-00C1-4979-9ADA-039CE997F3DA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\reponsitories\\imagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2D1BCF-00C1-4979-9ADA-039CE997F3DA}|Infrastructure\\Infrastructure.csproj|d:\\projecttoknow\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D2D1BCF-00C1-4979-9ADA-039CE997F3DA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\responsitories\\ipropertyrepon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\responsitories\\ipropertyrepon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2D1BCF-00C1-4979-9ADA-039CE997F3DA}|Infrastructure\\Infrastructure.csproj|d:\\projecttoknow\\infrastructure\\reponsitories\\propertyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2D1BCF-00C1-4979-9ADA-039CE997F3DA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\reponsitories\\propertyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\feature\\properties\\command\\createpropertyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\feature\\properties\\command\\createpropertyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\feature\\images\\queries\\getimagebyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\feature\\images\\queries\\getimagebyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|d:\\projecttoknow\\webapi\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\feature\\images\\command\\createimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\feature\\images\\command\\createimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2D1BCF-00C1-4979-9ADA-039CE997F3DA}|Infrastructure\\Infrastructure.csproj|d:\\projecttoknow\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2D1BCF-00C1-4979-9ADA-039CE997F3DA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|d:\\projecttoknow\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\models\\cachesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\models\\cachesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|d:\\projecttoknow\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\feature\\properties\\validators\\updatepropertyrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\feature\\properties\\validators\\updatepropertyrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\feature\\properties\\validators\\updatepropertyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\feature\\properties\\validators\\updatepropertyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5210152D-05A0-48FB-8537-CB9C04F28492}|Domain\\Domain.csproj|d:\\projecttoknow\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5210152D-05A0-48FB-8537-CB9C04F28492}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\feature\\properties\\query\\getpropertybyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\feature\\properties\\query\\getpropertybyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\pipelinebehaviours\\contracts\\icacheable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\pipelinebehaviours\\contracts\\icacheable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\feature\\properties\\validators\\createpropertyrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\feature\\properties\\validators\\createpropertyrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\feature\\properties\\validators\\newpropertyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\feature\\properties\\validators\\newpropertyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\pipelinebehaviours\\validationpipelinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\pipelinebehaviours\\validationpipelinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|d:\\projecttoknow\\webapi\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|d:\\projecttoknow\\application\\models\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63DD23-0B10-4554-9C7C-92078C743096}|Application\\Application.csproj|solutionrelative:application\\models\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|d:\\projecttoknow\\webapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A039E1-F2A0-4C75-8509-020E89151561}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +142,435 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreatePropertyRequest.cs",
-              "DocumentMoniker": "E:\\fpt-project\\Fpt-project\\Application\\Feature\\Command\\CreatePropertyRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Feature\\Command\\CreatePropertyRequest.cs",
-              "ToolTip": "E:\\fpt-project\\Fpt-project\\Application\\Feature\\Command\\CreatePropertyRequest.cs",
-              "RelativeToolTip": "Application\\Feature\\Command\\CreatePropertyRequest.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBwAAAAIAAAA",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ProjectToKnow\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ProjectToKnow\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T10:32:32.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T03:59:36.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Application\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Application\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T16:37:43.674Z",
+              "WhenOpened": "2024-08-22T04:12:53.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetPropertyRequest.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\Feature\\Properties\\Query\\GetPropertyRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Feature\\Properties\\Query\\GetPropertyRequest.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\Feature\\Properties\\Query\\GetPropertyRequest.cs",
+              "RelativeToolTip": "Application\\Feature\\Properties\\Query\\GetPropertyRequest.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:43:18.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPropertyRepon.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\Responsitories\\IPropertyRepon.cs",
+              "RelativeDocumentMoniker": "Application\\Responsitories\\IPropertyRepon.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\Responsitories\\IPropertyRepon.cs",
+              "RelativeToolTip": "Application\\Responsitories\\IPropertyRepon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:27:25.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Instrumentation.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\Instrumentation.cs",
+              "RelativeDocumentMoniker": "Application\\Instrumentation.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\Instrumentation.cs",
+              "RelativeToolTip": "Application\\Instrumentation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:33:30.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropertiessController.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\WebAPI\\Controllers\\PropertiessController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\PropertiessController.cs",
+              "ToolTip": "D:\\ProjectToKnow\\WebAPI\\Controllers\\PropertiessController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\PropertiessController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:14:52.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Infrastructure\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Infrastructure\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:54:10.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PropertiessController.cs",
-              "DocumentMoniker": "E:\\fpt-project\\Fpt-project\\WebAPI\\Controllers\\PropertiessController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\PropertiessController.cs",
-              "ToolTip": "E:\\fpt-project\\Fpt-project\\WebAPI\\Controllers\\PropertiessController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\PropertiessController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwD8AAAAQAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "D:\\ProjectToKnow\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T16:37:43.684Z",
+              "WhenOpened": "2024-08-22T03:01:01.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProjectToKnow\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "D:\\ProjectToKnow\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T03:48:08.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImageRepo.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Infrastructure\\Reponsitories\\ImageRepo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Reponsitories\\ImageRepo.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Infrastructure\\Reponsitories\\ImageRepo.cs",
+              "RelativeToolTip": "Infrastructure\\Reponsitories\\ImageRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:34:39.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\ProjectToKnow\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T08:56:54.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CachePipelineBehaviour.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\PipelineBehaviours\\CachePipelineBehaviour.cs",
+              "RelativeDocumentMoniker": "Application\\PipelineBehaviours\\CachePipelineBehaviour.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\PipelineBehaviours\\CachePipelineBehaviour.cs",
+              "RelativeToolTip": "Application\\PipelineBehaviours\\CachePipelineBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:30:16.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PropertyRepo.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Infrastructure\\Reponsitories\\PropertyRepo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Reponsitories\\PropertyRepo.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Infrastructure\\Reponsitories\\PropertyRepo.cs",
+              "RelativeToolTip": "Infrastructure\\Reponsitories\\PropertyRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:34:40.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreatePropertyRequest.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\Feature\\Properties\\Command\\CreatePropertyRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Feature\\Properties\\Command\\CreatePropertyRequest.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\Feature\\Properties\\Command\\CreatePropertyRequest.cs",
+              "RelativeToolTip": "Application\\Feature\\Properties\\Command\\CreatePropertyRequest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:38:19.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetImageByIdRequest.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\Feature\\Images\\Queries\\GetImageByIdRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Feature\\Images\\Queries\\GetImageByIdRequest.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\Feature\\Images\\Queries\\GetImageByIdRequest.cs",
+              "RelativeToolTip": "Application\\Feature\\Images\\Queries\\GetImageByIdRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:28:17.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\WebAPI\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "WebAPI\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\ProjectToKnow\\WebAPI\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "WebAPI\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:11:26.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateImageRequest.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\Feature\\Images\\Command\\CreateImageRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Feature\\Images\\Command\\CreateImageRequest.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\Feature\\Images\\Command\\CreateImageRequest.cs",
+              "RelativeToolTip": "Application\\Feature\\Images\\Command\\CreateImageRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:38:15.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Infrastructure\\Context\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Infrastructure\\Context\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:34:45.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WebAPI.http",
+              "DocumentMoniker": "D:\\ProjectToKnow\\WebAPI\\WebAPI.http",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.http",
+              "ToolTip": "D:\\ProjectToKnow\\WebAPI\\WebAPI.http",
+              "RelativeToolTip": "WebAPI\\WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-22T02:23:28.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "D:\\ProjectToKnow\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "D:\\ProjectToKnow\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T04:26:01.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdatePropertyValidator.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\Feature\\Properties\\Validators\\UpdatePropertyValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Feature\\Properties\\Validators\\UpdatePropertyValidator.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\Feature\\Properties\\Validators\\UpdatePropertyValidator.cs",
+              "RelativeToolTip": "Application\\Feature\\Properties\\Validators\\UpdatePropertyValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:51:51.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CacheSettings.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\Models\\CacheSettings.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\CacheSettings.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\Models\\CacheSettings.cs",
+              "RelativeToolTip": "Application\\Models\\CacheSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:28:29.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdatePropertyRequestValidator.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\Feature\\Properties\\Validators\\UpdatePropertyRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Feature\\Properties\\Validators\\UpdatePropertyRequestValidator.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\Feature\\Properties\\Validators\\UpdatePropertyRequestValidator.cs",
+              "RelativeToolTip": "Application\\Feature\\Properties\\Validators\\UpdatePropertyRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:49:58.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\ProjectToKnow\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T04:02:26.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetPropertyByIdRequest.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\Feature\\Properties\\Query\\GetPropertyByIdRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Feature\\Properties\\Query\\GetPropertyByIdRequest.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\Feature\\Properties\\Query\\GetPropertyByIdRequest.cs",
+              "RelativeToolTip": "Application\\Feature\\Properties\\Query\\GetPropertyByIdRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:39:13.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICacheable.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\PipelineBehaviours\\Contracts\\ICacheable.cs",
+              "RelativeDocumentMoniker": "Application\\PipelineBehaviours\\Contracts\\ICacheable.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\PipelineBehaviours\\Contracts\\ICacheable.cs",
+              "RelativeToolTip": "Application\\PipelineBehaviours\\Contracts\\ICacheable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:31:59.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NewPropertyValidator.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\Feature\\Properties\\Validators\\NewPropertyValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Feature\\Properties\\Validators\\NewPropertyValidator.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\Feature\\Properties\\Validators\\NewPropertyValidator.cs",
+              "RelativeToolTip": "Application\\Feature\\Properties\\Validators\\NewPropertyValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:43:07.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreatePropertyRequestValidator.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\Feature\\Properties\\Validators\\CreatePropertyRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Feature\\Properties\\Validators\\CreatePropertyRequestValidator.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\Feature\\Properties\\Validators\\CreatePropertyRequestValidator.cs",
+              "RelativeToolTip": "Application\\Feature\\Properties\\Validators\\CreatePropertyRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:49:09.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\WebAPI\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "D:\\ProjectToKnow\\WebAPI\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "WebAPI\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:58:51.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Error.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\Models\\Error.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\Error.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\Models\\Error.cs",
+              "RelativeToolTip": "Application\\Models\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:59:35.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ValidationPipelineBehaviour.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\Application\\PipelineBehaviours\\ValidationPipelineBehaviour.cs",
+              "RelativeDocumentMoniker": "Application\\PipelineBehaviours\\ValidationPipelineBehaviour.cs",
+              "ToolTip": "D:\\ProjectToKnow\\Application\\PipelineBehaviours\\ValidationPipelineBehaviour.cs",
+              "RelativeToolTip": "Application\\PipelineBehaviours\\ValidationPipelineBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:36:52.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "D:\\ProjectToKnow\\WebAPI\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ImagesController.cs",
+              "ToolTip": "D:\\ProjectToKnow\\WebAPI\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:02:51.452Z",
               "EditorCaption": ""
             }
           ]

@@ -6,7 +6,8 @@
         public int PropertyId { get; set; }
         public string Name { get; set; }
         public string Path { get; set; }
-        public bool isUploaded { get; set; }
+        public bool IsUploaded { get; set; }
+
         public Property Property { get; set; }
     }
 }
