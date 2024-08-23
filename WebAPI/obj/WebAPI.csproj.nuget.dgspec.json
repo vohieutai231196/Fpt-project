@@ -246,6 +246,10 @@
               "target": "Package",
               "version": "[8.0.8, )"
             },
+            "Microsoft.Extensions.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "OpenTelemetry.Exporter.Console": {
               "target": "Package",
               "version": "[1.9.0, )"
@@ -257,6 +261,10 @@
             "OpenTelemetry.Instrumentation.AspNetCore": {
               "target": "Package",
               "version": "[1.9.0, )"
+            },
+            "ServiceStack.Common": {
+              "target": "Package",
+              "version": "[8.3.0, )"
             },
             "System.Diagnostics.Tools": {
               "target": "Package",

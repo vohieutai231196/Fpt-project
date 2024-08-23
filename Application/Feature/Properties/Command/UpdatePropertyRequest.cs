@@ -35,10 +35,20 @@ namespace Application.Feature.Properties.Command
                 if (propertyInDb != null)
                 {
                     propertyInDb.Name = request.UpdateProperty.Name;
+                    propertyInDb.Louge = request.UpdateProperty.Louge;
+                    propertyInDb.Dining = request.UpdateProperty.Dining;
+                    propertyInDb.Rates = request.UpdateProperty.Rates;
+                    propertyInDb.Bathrooms = request.UpdateProperty.Bathrooms;
+                    propertyInDb.Bedrooms = request.UpdateProperty.Bedrooms;
+                    propertyInDb.Address = request.UpdateProperty.Address;
                     propertyInDb.Description = request.UpdateProperty.Description;
+                    propertyInDb.ErfSize = request.UpdateProperty.ErfSize;
+                    propertyInDb.FloorSize = request.UpdateProperty.FloorSize;
+                    propertyInDb.Kitchens = request.UpdateProperty.Kitchens;
+                    propertyInDb.Levies = request.UpdateProperty.Levies;
+                    propertyInDb.PetsAllowed = request.UpdateProperty.PetsAllowed;
                     propertyInDb.Price = request.UpdateProperty.Price;
                     propertyInDb.Type = request.UpdateProperty.Type;
-                    propertyInDb.Rates = request.UpdateProperty.Rates;
                     await _propertyRepon.UpdateAsync(propertyInDb);
                     return true;
                 }

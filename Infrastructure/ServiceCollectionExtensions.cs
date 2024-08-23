@@ -18,11 +18,12 @@ namespace Infrastructure
     {
         public static IServiceCollection AddInfrastructureServices(this IServiceCollection services, IConfiguration configuration)
         {
-            return services
+            return (IServiceCollection)services
                      .AddTransient<IPropertyRepon, PropertyRepo>()
                      .AddTransient<IImageRepo, ImageRepo>()
                      .AddDbContext<ApplicationDBContext>(options => options
-                     .UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+                     .UseSqlServer(configuration.GetConnectionString("DefaultConnection")))
+                     .AddHealthChecks();
         }
     }
 }

@@ -22,12 +22,14 @@ builder.Services.AddIdentityApiEndpoints<Users>()
     .AddEntityFrameworkStores<ApplicationDBContext>();
 
 builder.Services.AddSingleton(TimeProvider.System);
+
 //Configure Redis
 var cacheSettings = builder.Services.GetCacheSettings(builder.Configuration);
 builder.Services.AddStackExchangeRedisCache(options =>
 {
     options.Configuration = cacheSettings.DistinationUrl;
 });
+
 builder.Services.AddSingleton<Instrumentation>();
 //Open telementry;
 builder.Services.AddOpenTelemetry()
@@ -44,6 +46,9 @@ builder.Logging.AddOpenTelemetry(options => options
         serviceName: "property-server",
         serviceVersion: "1.0.0"))
     .AddConsoleExporter());
+
+builder.Services.AddHealthChecks();
+
 
 builder.Services.AddControllers();
 var app = builder.Build();
