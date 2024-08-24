@@ -2,6 +2,7 @@
 using Application.Repositories;
 using Application.Responsitories;
 using Infrastructure.Context;
+using Infrastructure.Health;
 using Infrastructure.Reponsitories;
 using Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
@@ -16,14 +17,18 @@ namespace Infrastructure
 {
     public static class ServiceCollectionExtensions
     {
-        public static IServiceCollection AddInfrastructureServices(this IServiceCollection services, IConfiguration configuration)
+        public static void AddInfrastructureServices(this IServiceCollection services, IConfiguration configuration)
         {
-            return (IServiceCollection)services
-                     .AddTransient<IPropertyRepon, PropertyRepo>()
-                     .AddTransient<IImageRepo, ImageRepo>()
-                     .AddDbContext<ApplicationDBContext>(options => options
-                     .UseSqlServer(configuration.GetConnectionString("DefaultConnection")))
-                     .AddHealthChecks();
+            services
+
+                    .AddTransient<IPropertyRepon, PropertyRepo>()
+                    .AddTransient<IImageRepo, ImageRepo>()
+                    .AddDbContext<ApplicationDBContext>(options => options
+                    .UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+                    //.AddHealthChecks()
+                    //.AddCheck<DatabaseHealthCheck>("DatabaseCheck")
+                    //.AddSqlServer(configuration.GetConnectionString("DefaultConnection"));
+                     
         }
     }
 }

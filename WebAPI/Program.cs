@@ -9,6 +9,8 @@ using WebApi;
 using OpenTelemetry.Resources;
 using OpenTelemetry.Trace;
 using OpenTelemetry.Logs;
+using Infrastructure.Health;
+using HealthChecks.SqlServer;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -16,7 +18,7 @@ builder.Services.AddApplicationServices();
 builder.Services.AddInfrastructureServices(builder.Configuration);
 
 builder.AddPresentation();
-
+string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddIdentityApiEndpoints<Users>()
     .AddRoles<IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDBContext>();
@@ -47,8 +49,11 @@ builder.Logging.AddOpenTelemetry(options => options
         serviceVersion: "1.0.0"))
     .AddConsoleExporter());
 
-builder.Services.AddHealthChecks();
+builder.Services.AddScoped<SqlServerHealthCheckOptions>();
 
+builder.Services
+    .AddHealthChecks()
+    .AddCheck<DatabaseHealthCheck>("DatabaseCheck");
 
 builder.Services.AddControllers();
 var app = builder.Build();
@@ -66,4 +71,5 @@ app.UseAuthorization();
 app.MapControllers();
 app.UseMiddleware<ErrorHandlingMiddleware>();
 app.MapGroup("api/identity").MapIdentityApi<Users>();
+app.MapHealthChecks("/healthz");
 app.Run();
